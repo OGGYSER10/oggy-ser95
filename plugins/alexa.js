@@ -27,7 +27,7 @@ var afnplk = '```⏱ Time :' + plk_say + '```\n\n ```📅 Date :' + plk_here + '
       
       const buttonMessage = {
           contentText: 'Hey I Am Alexa A Whatsapp Bot Made By Turbo And Jifi And They Are The Leaders Of Team Toxic',
-          footerText: '©ꪶ͢Turbo ÂÑD Jifiꫂ™',
+          footerText: '✪⃝𝐎𝐆𝐆𝐘 𝐒𝐄𝐑✯⃟⋆ ➤͜͡★',
           buttons: buttons,
           headerType: 1
       }
