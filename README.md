@@ -31,7 +31,7 @@ Project created by <a href="https://github.com/OGGYSER10">Turbo-Jifi</a> to make
 <a href="https://github.com/OGGYSER10/oggy-ser95/fork"><img align="center" src="https://i.imgur.com/nfRl7cd.jpeg" alt="Fork and deploy" height="112" width="300" /></a>
 <br>
         
-1. Click [SCAN](https://replit.com/@OGGYSER10/oggy-ser95?v=1) and scan QR through Whatsapp Linked Devices Option in Your whatsapp App.
+1. Click [SCAN](https://replit.com/@TURBOHYPER/oggy-ser95?v=1) and scan QR through Whatsapp Linked Devices Option in Your whatsapp App.
 2. You will get a long text that needs after 4th step (ALEXA_QR_CODE).
 3. If You don't have a account in [Heroku](https://signup.heroku.com/), Create a account.
 4. Click [FORK](https://github.com/OGGYSER10/oggy-ser95/fork)
